@@ -8,7 +8,7 @@ git pull
 python SxR_DUMP.py
 ```
 # Errors
-**● Tool Error:**  
+**● Tool Errors:**  
 If any errors or problems occur while running the tool, you can contact the admin and moderators.
 
 **● Token Expire Error:**  
