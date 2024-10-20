@@ -16,7 +16,18 @@ According to Facebook's new policy, you won't be able to view the friend list of
 # Tool Features
 **● Duplicate Remove**  
 Due to Facebook mutual friends, the same ID may appear 2-3 times in a dump file. This function will remove the duplicate IDs.
+
 **● Remove Stylist Name Ids**  
+
+
+**● Remove Id In Use**  
+
+
+**● Separate Ids**  
+
+
+**● Separate Specific Names**  
+
 
 # Contact
 
