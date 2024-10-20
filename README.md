@@ -27,7 +27,7 @@ Often, when we start cloning a file, we stop the cloning process after a short t
 After making a mix file, you can use this function to separate specific serial IDs.
 
 **● Separate Specific Names**  
-
+After creating a file, you can use this function to separate specific named IDs.
 
 **● Divide Large File**  
 
