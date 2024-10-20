@@ -9,13 +9,11 @@ git pull
 python SxR_DUMP.py
 ```
 # Errors
-**● Tool Error:**
+**● Tool Error:**  
+If any errors or problems occur while running the tool, you can contact the admin and moderators.
 
-**If any errors or problems occur while running the tool, you can contact the admin and moderators.**
-
-**● Token Expire Error:**
-
-**According to Facebook's new policy, you won't be able to view the friend list of any public profile from a new account. You will need to wait 3-4 days for the token of your account to become active after creating a new account. You can check this directly from the Facebook app. If you see that you can view the friend list of any public profile, it means your account is ready for creating a dump file.**
+**● Token Expire Error:**  
+According to Facebook's new policy, you won't be able to view the friend list of any public profile from a new account. You will need to wait 3-4 days for the token of your account to become active after creating a new account. You can check this directly from the Facebook app. If you see that you can view the friend list of any public profile, it means your account is ready for creating a dump file.
 # Tool Features
 **● Duplicate Remove**  
 Due to Facebook mutual friends, the same ID may appear 2-3 times in a dump file. This function will remove the duplicate IDs.
