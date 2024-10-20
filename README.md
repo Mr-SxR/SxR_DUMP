@@ -11,7 +11,7 @@ python SxR_DUMP.py
 # Errors
 **● Tool Error:**
 
-**If any errors or problems occur while running the tool, you can contact the admins and moderators.**
+**If any errors or problems occur while running the tool, you can contact the admin and moderators.**
 
 **● Token Expire Error:**
 
