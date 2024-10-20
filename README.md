@@ -21,7 +21,7 @@ Due to Facebook mutual friends, the same ID may appear 2-3 times in a dump file.
 Many Facebook accounts have stylist names. When there is a stylist name in the dump file and we clone it using the first and last name for the password, a password for that stylist account is generated and cracked. However, the stylist password doesn't actually exist. This function will remove stylist accounts from the dump file.
 
 **● Remove Id In Use**  
-
+Often, when we start cloning a file, we stop the cloning process after a short time. As a result, our dump file gets corrupted because the first few IDs have already been cloned. However, with this function, you can remove the first cloned IDs from the dump file.
 
 **● Separate Ids**  
 
