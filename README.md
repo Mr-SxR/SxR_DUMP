@@ -24,7 +24,7 @@ Many Facebook accounts have stylist names. When there is a stylist name in the d
 Often, when we start cloning a file, we stop the cloning process after a short time. As a result, our dump file gets corrupted because the first few IDs have already been cloned. However, with this function, you can remove the first cloned IDs from the dump file.
 
 **● Separate Ids**  
-
+After making a mix file, you can use this function to separate specific serial IDs.
 
 **● Separate Specific Names**  
 
