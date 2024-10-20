@@ -18,7 +18,7 @@ According to Facebook's new policy, you won't be able to view the friend list of
 Due to Facebook mutual friends, the same ID may appear 2-3 times in a dump file. This function will remove the duplicate IDs.
 
 **● Remove Stylist Name Ids**  
-
+Many Facebook accounts have stylist names. When there is a stylist name in the dump file and we clone it using the first and last name for the password, a password for that stylist account is generated and cracked. However, the stylist password doesn't actually exist. This function will remove stylist accounts from the dump file.
 
 **● Remove Id In Use**  
 
