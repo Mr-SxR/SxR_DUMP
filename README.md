@@ -8,6 +8,7 @@ cd SxR_DUMP
 git pull
 python SxR_DUMP.py
 ```
+# Errors
 **● Tool Error:**
 
 **If any errors or problems occur while running the tool, you can contact the admins and moderators**
