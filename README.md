@@ -30,7 +30,7 @@ After making a mix file, you can use this function to separate specific serial I
 After creating a file, you can use this function to separate specific named IDs.
 
 **● Divide Large File**  
-
+After creating a large file, you can use this function to divide the file into equal parts according to your preference.
 
 # Contact
 
