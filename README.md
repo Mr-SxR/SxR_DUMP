@@ -1,5 +1,5 @@
 # Installation
-```
+```Bash
 cd $HOME
 rm -rf SxR_DUMP
 git clone --depth=1 https://github.com/Mr-SxR/SxR_DUMP.git
